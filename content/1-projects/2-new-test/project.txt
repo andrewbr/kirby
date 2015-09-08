@@ -1,0 +1,13 @@
+Title: new-test
+
+----
+
+Text: In the preceding example, column 1 has a fixed width: it has been set to 400 px wide. With text rendering at 12 px this would result in a measure of approximately 66 characters per line. If your reader increases the text size to 16 px then the measure reduces to 50 characters per line. Thus when the text size is changed, so the measure changes.
+
+----
+
+Tags: 
+
+----
+
+Date: 2015-07-07
