@@ -40,5 +40,4 @@ from http://download.getkirby.com
 
 © 2009-2014 Bastian Allgeier (Bastian Allgeier GmbH)
 <http://getkirby.com>KirbySite
-KirbySite
-# KirbySite
+
