@@ -23,6 +23,8 @@
     <link rel="stylesheet" type="text/css" href="//cloud.typography.com/6692132/630046/css/fonts.css" />
 <?php if($page->title() == 'Journal'): ?>
 <style type="text/css"> .menu .active { color: #000;} .menu a { color: #fff;}</style>
+<?php elseif($page->template() == 'project'): ?>
+ <style type="text/css"> .menu .active { color: red;} .menu a { color: green;} .header-title{ color: #454147;}</style>   
 <?php else: ?>
 <style type="text/css"> </style>
 <?php endif ?>

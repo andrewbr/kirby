@@ -276,7 +276,7 @@ p,
 ul {
   margin-bottom: 1em;
   line-height: 1.71;
-  color: #787f8c;
+  color: #454147;
   font-size: 0.875em;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -627,4 +627,7 @@ body {
 
 img.landscape{max-width: 98%;}
 img.portrait{max-width: 48%; float: left; margin-right: 2%; margin-bottom: 1.5em; display: inline-block;}
-.next
+ 
+.childTitle { margin-top: 2em; color: blue}
+
+ /* buttons */

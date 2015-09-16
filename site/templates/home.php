@@ -20,8 +20,10 @@ I craft a wide range of thought out branding, film and design work for a variety
                <p class='position-summary' style="border-bottom: 5px solid;
     padding-bottom: 1em;">
 I like to take photos and sometimes drink <strike>too much</strike> beer.
+
+
               </p>
-                 <img src="<?php echo url('assets/images/pic.png'); ?>" height="40" width="40">  
+                 <img src="<?php echo url('assets/images/pic.png'); ?>" height="40" width="40">
             </div>
            
     </div>
