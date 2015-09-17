@@ -11,8 +11,8 @@
 
               </h1>
                <ul class="meta cf">
-      <li><b>Date:</b> <time datetime="<?php echo $page->date('c') ?>" pubdate="pubdate"><?php echo $page->date('d.m.Y H:i') ?></time></li>
-      <li><b>Tags:</b> <?php echo $page->tags() ?></li>
+      <li><b>Written: </b> <time datetime="<?php echo $page->date('c') ?>" pubdate="pubdate"><?php echo $page->date('jS F, Y') ?></time></li>
+      <li><b>Tags: </b> <?php echo $page->tags() ?></li>
     </ul>
       <div class="text">
       <?php echo $page->text()->kirbytext() ?>

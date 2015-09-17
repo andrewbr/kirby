@@ -24,7 +24,7 @@
 <?php if($page->title() == 'Journal'): ?>
 <style type="text/css"> .menu .active { color: #000;} .menu a { color: #fff;}</style>
 <?php elseif($page->template() == 'project'): ?>
- <style type="text/css"> .menu .active { color: red;} .menu a { color: green;} .header-title{ color: #454147;}</style>   
+ <style type="text/css"> .menu .active { color: red;} .menu a { color: #4d4f53;} .header-title{ color: #454147;}</style>   
 <?php else: ?>
 <style type="text/css"> </style>
 <?php endif ?>

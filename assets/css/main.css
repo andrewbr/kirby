@@ -135,7 +135,7 @@ nav {
 
 .footer-links {
   *zoom: 1;
-  padding-top: 105px;
+
 }
 
 .footer-links:after {
@@ -152,9 +152,13 @@ nav {
 
 .footer-links-column {
   width: 48.10127%;
-  margin-left: 3.79747%;
-  display: inline;
   margin-bottom: 50px;
+}
+
+@media(max-width: 1025px){
+.footer-links-column {
+  margin-left: 3.79747%;}
+
 }
 
 .footer-links-column:nth-child(2n) {
@@ -628,6 +632,16 @@ body {
 img.landscape{max-width: 98%;}
 img.portrait{max-width: 48%; float: left; margin-right: 2%; margin-bottom: 1.5em; display: inline-block;}
  
-.childTitle { margin-top: 2em; color: blue}
+.childTitle { margin-top: 2em; color: red;}
+@media (max-width: 568px) {
+  .childTitle { display: none; }
+}
+@media(max-width: 568px){
+ .project-wrapper{padding-top: 2.5em; }
+ .text p{ width: 80%;} 
+}
+.nextprev{display: inline-block; width: 100%; }
+.nextprev a{color: red;}
+.next{float: right;}
 
  /* buttons */
