@@ -15,17 +15,6 @@ tool for your next project.
 You can purchase your Kirby license at
 <http://getkirby.com/buy>
 
-A Kirby license is valid for a single domain. You can find
-Kirby's license agreement here: <http://getkirby.com/license>
-
-
-## The Panel
-
-You can find the login for Kirby's admin interface at
-http://yourdomain.com/panel. You will be guided through the signup
-process for your first user, when you visit the panel
-for the first time.
-
 ### Requirements
 
 Kirby runs on PHP 5.3+, Apache or Nginx.
